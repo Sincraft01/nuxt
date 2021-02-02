@@ -2,17 +2,17 @@
   <div class="container bg-gray-700">
     <div>
       <div
-        class="max-w-none rounded-xl overflow-hidden bg-gray-800 shadow-lg py-5 px-5"
+        class="max-w-none rounded-xl overflow-hidden bg-gray-100 shadow-lg py-5 px-5"
       >
         <h1 id="black" class="text-6xl font-black text-indigo-500">BLACK</h1>
-        <h1 id="mail" class="ease-in duration-100 text-6xl font-thin text-green-400">MAIL</h1>
+        <h1 id="mail" class="text-6xl border-3 border-yellow-500 font-thin text-yellow-400">MAIL</h1>
 
         <div class="links">
           <a
-            href="https://nuxtjs.org/"
+            href="https://blackmail.wtf/webmail/index.php?postlogin"
             target="_blank"
             rel="noopener noreferrer"
-            class="material-icons border-2 border-yellow-700 bg-indigo-700 rounded-xl py-2 px-2 text-indigo-300"
+            class="material-icons border-2 border-indigo-500 bg-purple-700 rounded-xl py-2 px-5"
           >
             inbox
           </a>
@@ -20,9 +20,9 @@
             href="https://github.com/nuxt/nuxt.js"
             target="_blank"
             rel="noopener noreferrer"
-            class="material-i"
+            class="material-icons border-2 text-yellow-200 border-indigo-500 rounded-xl py-2 px-5 bg-purple-700"
           >
-            5034954645
+            cloud
           </button>
         </div>
       </div>
